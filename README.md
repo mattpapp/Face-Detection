@@ -38,10 +38,6 @@ A simple Java application using JavaCV for real-time face detection via your web
 4. **Take a Screenshot:** Click the **"Screenshot"** button to save the current frame.
 5. **Stop Webcam Feed:** Click the **"Stop"** button when done.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [OpenCV](https://opencv.org/) for powerful computer vision tools.
